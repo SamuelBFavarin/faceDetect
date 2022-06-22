@@ -1,6 +1,6 @@
 distro==1.5.0
 dlib==19.21.0
-numpy==1.19.2
+numpy==1.22.0
 opencv-python==4.4.0.44
 packaging==20.4
 pkg-resources==0.0.0
